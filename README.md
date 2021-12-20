@@ -1,6 +1,7 @@
 Hiya 👋<br>
 My name is Mohammed Aljubori but I go by Mo 😄 <br> <br>
 
+Some things about me:<br>
 💻Career:
 - 👨‍🏫 I'm currently working as a Graduate Teaching Assistant, for Georgia State University's CS department!
 - 🔭 I am on the lookout for Internships / Co-Ops in Software Engineering, DevOps, and Data Analysis!
@@ -12,9 +13,7 @@ My name is Mohammed Aljubori but I go by Mo 😄 <br> <br>
 - 🖱️ I am proficient in Python and Java, but I have experience with other languages too!
 - 📊 I also have experience with Machine Learning (ML) and visualization!
 
-
-
-Some things about me:
+🪐Random facts about me:
 - 👨‍💻 I’m super passionate about tech!
 - 🤔 I’m always on the look to make new friends!
 - ⚡ Fun fact: I love videogames and can talk about them forever. 🎮 
