@@ -16,5 +16,5 @@ Some things about me:<br>
 🪐Random facts about me:
 - 👨‍💻 I’m super passionate about tech!
 - 🤔 I’m always on the look to make new friends!
-- ⚡ Fun fact: I love videogames and can talk about them forever. 🎮 
+- ⚡ Fun fact: I love videogames and cars, I can literally talk about them forever. 🎮 
 - 😄 Pronouns: He / Him
